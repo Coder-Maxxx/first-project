@@ -7,7 +7,7 @@
 // }
 
 // //字符转ASCII值;
-// int main ()
+// int main ()ß
 // {
 //     char c = 0;
 //     printf("请输入一个字符: ");
